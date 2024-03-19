@@ -1,0 +1,7 @@
+# Ignorar directorios
+
+__pycache__/**
+
+# Ignorar archivos
+
+Database.db
